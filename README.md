@@ -19,4 +19,4 @@ See image below.
 
 
 
-![Visual guide](.\images\img1.png)  
+![Visual guide](./images/img1.png)  
