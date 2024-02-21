@@ -17,4 +17,4 @@ See image below.
 
 
 
-![Visual guide](images\img1.png)  
+![Visual guide](https://ibb.co/hc1SsHQ)  
