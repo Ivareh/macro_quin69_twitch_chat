@@ -8,6 +8,8 @@ Works regardless if you have multiple monitors.
 
 Optimized best for fullscreen/near fullscreen.
 
+[Download Repository Zip](https://github.com/Ivareh/macro_quin69_twitch_chat/archive/main.zip)
+
 
 ## How it works:
 
