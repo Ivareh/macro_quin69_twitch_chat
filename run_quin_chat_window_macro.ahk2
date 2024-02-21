@@ -1,0 +1,14 @@
+; This script will not exit automatically, even though it has nothing to do.
+; However, you can use its tray icon to open the script in an editor, or to
+; launch Window Spy or the Help file.
+Persistent
+
+; Set the path to the self-extracting executable
+self_extracting_exe := A_ScriptDir . "\click_twitch_chat_field.py"
+
+!c::
+    {
+        ; Run the self-extracting executable
+        Run "pythonw " self_extracting_exe
+    }
+return
